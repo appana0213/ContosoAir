@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/markmikula/ContosoAir/_apis/build/status/markm-acg.ContosoAir?branchName=master)](https://dev.azure.com/markmikula/ContosoAir/_build/latest?definitionId=18&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
